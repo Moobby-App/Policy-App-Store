@@ -10,7 +10,7 @@ Prima Ke 3 ("we," "our," or "us") respects your privacy. This policy explains ho
 
 - **Account & Contact Data:** We do not require account creation or sign-in, and we do not collect your name, email address, or other personal contact details.
 - **Usage & Diagnostics:** We use Firebase Analytics to log fixed event and screen names (e.g., which screens are viewed, feature usage counts). These events never include your precise location, free-text input, or credentials.
-- **Device Permissions:** Location — used to show your position relative to Green Line stations and to find the nearest Transjakarta stops ("When In Use"), and to notify you of disruptions on your route when you arrive at your departure station ("Always"). Push Notifications — used to alert you about disruptions affecting stations you've saved.
+- **Device Permissions:** Location — used to show your position relative to nearby commuter line stations and to find the nearest stops across supported transit modes ("When In Use"), and to notify you of disruptions on your route when you arrive at your departure station ("Always"). Push Notifications — used to alert you about disruptions affecting stations you've saved.
 - **Device/Installation Data:** To deliver disruption alerts, our server stores an anonymous installation ID, your device's push notification token, the station IDs you've saved, and your chosen alert severity levels. This data is not linked to your name or email, since no account is required.
 - **Third-Party SDKs:** Firebase Analytics (Google) for the usage events described above, and Apple Push Notification service (APNs) for delivering alerts.
 
